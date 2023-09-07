@@ -2,7 +2,7 @@
     "name": "Offline Web App",
     "short_name": "OfflineApp",
     "description": "An offline web app with images and buttons.",
-    "start_url": "./index.html",
+    "start_url": "https://erkulova.github.io/offlinewebapp/",
     "display": "standalone",
     "background_color": "#ffffff",
     "theme_color": "#000000",
