@@ -2,7 +2,7 @@ self.addEventListener('install', (event) => {
     event.waitUntil(
         caches.open('offline-cache').then((cache) => {
             return cache.addAll([
-                './index.html',
+                'https://erkulova.github.io/offlinewebapp/',
                 './image1.jpg',
                 './image2.jpg',
                 './manifest.json',
